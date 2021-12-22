@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0x6b16AA519aDf0b6a6E726492E3be2Cb6852e5120",
+  "SCAN_LINK": "https://explorer.celo.org/address/0x6b16AA519aDf0b6a6E726492E3be2Cb6852e5120",
+  "NETWORK": {
+    "NAME": "Celo (Mainnet)",
+    "SYMBOL": "CELO",
+    "ID": 42220
+  },
+  "NFT_NAME": "Hi Sup",
+  "SYMBOL": "HS",
+  "MAX_SUPPLY": 6969,
+  "WEI_COST": 100000000000000,
+  "DISPLAY_COST": 0.0001,
+  "GAS_LIMIT": 285000,
+  "SHOW_BACKGROUND": true
+}
